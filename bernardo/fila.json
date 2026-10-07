@@ -3,10 +3,22 @@
   "usuario": "drbernardomercante",
   "fila": [
     {
+      "id": "HQ01_joelho_corrida",
+      "lote": "01",
+      "pasta": "bernardo/posts/HQ01_joelho_corrida",
+      "slides": 5
+    },
+    {
       "id": "ST04_coluna_acordar_travado",
       "lote": "01",
       "pasta": "bernardo/posts/ST04_coluna_acordar_travado",
       "slides": 6
+    },
+    {
+      "id": "HQ05_joelho_canetas_emagrecer",
+      "lote": "01",
+      "pasta": "bernardo/posts/HQ05_joelho_canetas_emagrecer",
+      "slides": 5
     },
     {
       "id": "ST02_coluna_hernia_5_problemas",
@@ -21,6 +33,18 @@
       "slides": 8
     },
     {
+      "id": "HQ02_coluna_pescoco_celular",
+      "lote": "01",
+      "pasta": "bernardo/posts/HQ02_coluna_pescoco_celular",
+      "slides": 5
+    },
+    {
+      "id": "HQ03_joelho_beach_tennis",
+      "lote": "01",
+      "pasta": "bernardo/posts/HQ03_joelho_beach_tennis",
+      "slides": 5
+    },
+    {
       "id": "ST06_coluna_historia_carlos",
       "lote": "01",
       "pasta": "bernardo/posts/ST06_coluna_historia_carlos",
@@ -33,10 +57,22 @@
       "slides": 6
     },
     {
+      "id": "HQ04_coluna_motorista_lombar",
+      "lote": "01",
+      "pasta": "bernardo/posts/HQ04_coluna_motorista_lombar",
+      "slides": 5
+    },
+    {
       "id": "ST05_joelho_5_sinais",
       "lote": "01",
       "pasta": "bernardo/posts/ST05_joelho_5_sinais",
       "slides": 8
+    },
+    {
+      "id": "HQ06_coluna_academia_lombar",
+      "lote": "01",
+      "pasta": "bernardo/posts/HQ06_coluna_academia_lombar",
+      "slides": 5
     }
   ]
 }
