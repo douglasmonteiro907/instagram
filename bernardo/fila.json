@@ -1,0 +1,42 @@
+{
+  "conta_instagram_id": "17841401873564284",
+  "usuario": "drbernardomercante",
+  "fila": [
+    {
+      "id": "ST04_coluna_acordar_travado",
+      "lote": "01",
+      "pasta": "bernardo/posts/ST04_coluna_acordar_travado",
+      "slides": 6
+    },
+    {
+      "id": "ST02_coluna_hernia_5_problemas",
+      "lote": "01",
+      "pasta": "bernardo/posts/ST02_coluna_hernia_5_problemas",
+      "slides": 8
+    },
+    {
+      "id": "ST03_joelho_historia_marcia",
+      "lote": "01",
+      "pasta": "bernardo/posts/ST03_joelho_historia_marcia",
+      "slides": 8
+    },
+    {
+      "id": "ST06_coluna_historia_carlos",
+      "lote": "01",
+      "pasta": "bernardo/posts/ST06_coluna_historia_carlos",
+      "slides": 8
+    },
+    {
+      "id": "ST01_joelho_escadas",
+      "lote": "01",
+      "pasta": "bernardo/posts/ST01_joelho_escadas",
+      "slides": 6
+    },
+    {
+      "id": "ST05_joelho_5_sinais",
+      "lote": "01",
+      "pasta": "bernardo/posts/ST05_joelho_5_sinais",
+      "slides": 8
+    }
+  ]
+}
