@@ -17,7 +17,7 @@ from pathlib import Path
 
 AQUI = Path(__file__).resolve().parent
 REPO = AQUI.parent
-PROJETO = Path('/mnt/project-files/clinica-sotre')
+PROJETO = Path(os.environ.get('SOTRE_PROJETO', '/mnt/project-files/clinica-sotre'))
 IG = '17841473420265611'
 G = 'https://graph.facebook.com/v21.0'
 TOKEN = os.environ.get('INSTAGRAM_ACCESS_TOKEN')
