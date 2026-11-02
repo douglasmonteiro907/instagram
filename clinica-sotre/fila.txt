@@ -2,6 +2,12 @@
 03-servicos
 01-viscossuplementacao
 04-coluna-sinais
+08-convenios-2026
+09-como-agendar
 05-joelho-mitos
 06-ombro-noite
 07-pe-fascite
+10-ciatico
+11-liberacao-miofascial
+12-fisio-dor-costas
+13-lesao-que-volta
