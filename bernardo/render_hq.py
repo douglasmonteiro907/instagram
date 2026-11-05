@@ -1,9 +1,9 @@
 # Monta as HQs (layout v2) em PNG 1080x1350 a partir das ilustrações originais do Canva.
 # Uso: python3 render_hq.py <pasta_artes> <pasta_saida> [HQ01 ...]
 # <pasta_artes>/<slot>_s<n>.(jpg|png) = ilustração do slide n (sem texto). Textos e cores vêm de hq_data_v2.py.
-import sys, os, base64, html, glob
+import sys, os, base64, html, glob, importlib
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from hq_data_v2 import HQS
+HQS = importlib.import_module(os.environ.get('HQ_DATA', 'hq_data_v2')).HQS  # HQ_DATA=hq_data_lote02 para o lote 02
 from playwright.sync_api import sync_playwright
 
 W = os.path.dirname(os.path.abspath(__file__))

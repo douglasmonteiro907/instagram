@@ -73,6 +73,78 @@
       "lote": "01",
       "pasta": "bernardo/posts/HQ06_coluna_academia_lombar",
       "slides": 5
+    },
+    {
+      "id": "HQ07_joelho_padel",
+      "lote": "02",
+      "pasta": "bernardo/posts/HQ07_joelho_padel",
+      "slides": 5
+    },
+    {
+      "id": "ST08_coluna_ciatico_5_problemas",
+      "lote": "02",
+      "pasta": "bernardo/posts/ST08_coluna_ciatico_5_problemas",
+      "slides": 8
+    },
+    {
+      "id": "HQ09_joelho_futevolei",
+      "lote": "02",
+      "pasta": "bernardo/posts/HQ09_joelho_futevolei",
+      "slides": 5
+    },
+    {
+      "id": "ST10_coluna_endoscopia_5_duvidas",
+      "lote": "02",
+      "pasta": "bernardo/posts/ST10_coluna_endoscopia_5_duvidas",
+      "slides": 8
+    },
+    {
+      "id": "HQ11_joelho_avo_artrose",
+      "lote": "02",
+      "pasta": "bernardo/posts/HQ11_joelho_avo_artrose",
+      "slides": 5
+    },
+    {
+      "id": "ST12_coluna_historia_sandra",
+      "lote": "02",
+      "pasta": "bernardo/posts/ST12_coluna_historia_sandra",
+      "slides": 8
+    },
+    {
+      "id": "ST07_joelho_incha_caminhada",
+      "lote": "02",
+      "pasta": "bernardo/posts/ST07_joelho_incha_caminhada",
+      "slides": 6
+    },
+    {
+      "id": "HQ08_coluna_home_office",
+      "lote": "02",
+      "pasta": "bernardo/posts/HQ08_coluna_home_office",
+      "slides": 5
+    },
+    {
+      "id": "ST09_joelho_historia_ricardo",
+      "lote": "02",
+      "pasta": "bernardo/posts/ST09_joelho_historia_ricardo",
+      "slides": 8
+    },
+    {
+      "id": "HQ10_coluna_mae_colo",
+      "lote": "02",
+      "pasta": "bernardo/posts/HQ10_coluna_mae_colo",
+      "slides": 5
+    },
+    {
+      "id": "ST11_joelho_prp",
+      "lote": "02",
+      "pasta": "bernardo/posts/ST11_joelho_prp",
+      "slides": 6
+    },
+    {
+      "id": "HQ12_coluna_cabeleireira_cervical",
+      "lote": "02",
+      "pasta": "bernardo/posts/HQ12_coluna_cabeleireira_cervical",
+      "slides": 5
     }
   ]
 }
